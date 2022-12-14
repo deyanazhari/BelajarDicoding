@@ -6,6 +6,10 @@ public class OperatorAritmatika {
         int hasilPenjumlahan = 5+1;
         System.out.println("Hasil dari = " + hasilPenjumlahan);
         System.out.println();
+        System.out.print("operasi Penjumlahan");
+        int hasilPenjumlahanXDua = 5+7;
+        System.out.println("Hasil dari = " + hasilPenjumlahan);
+        System.out.println();
 
         System.out.println("Operasi Pengurangan");
         int hasilPengurangan = 4-1;
